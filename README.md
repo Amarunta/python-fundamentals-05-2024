@@ -1,4 +1,4 @@
-# SoftUni-Fundamentals-2024-01 🏫
+# SoftUni-Fundamentals-2024-05 🏫
 In this repository there are solutions to tasks from the programming Fundamentals course with Python of the software academy of SoftUni University 
 
 Lecturer of course - [Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/) 🐱‍🚀
@@ -18,7 +18,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ## Additional Resources 
 
-➡ [Course page - Programming Fundamentals with Python - January 2024](https://softuni.bg/trainings/4379/programming-fundamentals-with-python-january-2024)
+➡ [Course page - Programming Fundamentals with Python - May 2024](https://softuni.bg/trainings/4501/programming-fundamentals-with-python-may-2024)
 
 ➡ [Official Python documentation](https://docs.python.org/3/)
 
