@@ -40,7 +40,7 @@ tan_result = math.tan(angle_in_radians)
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer -> a) Square Root of 25: 5.0, Sine of 45 degrees: 0.7071, Cosine of 45 degrees: 0.7071, Tangent of 45 degrees: 1.0
+#### Correct Answer -> A) Square Root of 25: 5.0, Sine of 45 degrees: 0.7071, Cosine of 45 degrees: 0.7071, Tangent of 45 degrees: 1.0
 
 </p>
 </details>
@@ -113,7 +113,7 @@ print(result)
 </p>
 </details>
 
-###### 7. What is the correct way to check if two variables,  and , are equal in Python?
+###### 7. What is the correct way to check if two variables are equal in Python?
 
 - A: a == b
 - B: a = b
@@ -165,9 +165,9 @@ for i in range(5, 0, -1):
     print(i, end=''' ''')
 ```
 
-- A: 5   4   3   2   1
+- A: 5 $~~~$ 4 $~~~$ 3 $~~~$ 2 $~~~$ 1
 - B: 54321
-- C: 4 3 2 1 
+- C: 5 4 3 2 1 
 - D: 5 4 3 2
 
 <details><summary><b>Answer</b></summary>
